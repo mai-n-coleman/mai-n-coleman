@@ -60,21 +60,22 @@ plugins:
 
 author:
   name   : "Mai Nguyen Coleman"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/bio-photo2a.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Location: Atlanta, GA, USA"
       icon: "fas fa-map-marker-alt"
       url: "https://www.google.com/maps/place/Atlanta,+GA/@33.7676338,-84.5606888,11z/data=!3m1!4b1!4m5!3m4!1s0x88f5045d6993098d:0x66fede2f990b630b!8m2!3d33.7489954!4d-84.3879824"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.linkedin.com/in/phuongnguyen93/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/mai-n-coleman"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+
 
 footer:
   links:
@@ -114,3 +115,4 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
