@@ -24,6 +24,9 @@ github_username: mai-n-coleman
 minimal_mistakes_skin: default
 search: true
 github: [metadata]
+baseurl: "/mai-n-coleman" # the subpath of your site, e.g. "/blog"
+url: "https://mai-n-coleman.github.io" #"https://zengliX.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+
 
 # Build settings
 markdown: kramdown
