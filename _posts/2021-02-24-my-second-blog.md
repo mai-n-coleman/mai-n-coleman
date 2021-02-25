@@ -1,5 +1,5 @@
 ---
-permalink: /posts/
+# permalink: /posts/
 title: "My Second Post"
 # date: #
 # categories: #
