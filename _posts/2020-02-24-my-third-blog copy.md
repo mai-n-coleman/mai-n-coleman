@@ -1,8 +1,8 @@
 ---
 permalink: /posts/
-title: "My First Post"
+title: "My Third Post"
 # date: #
 # categories: #
 ---
 
-This is my first post!
+This is my third post!
